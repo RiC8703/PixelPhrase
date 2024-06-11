@@ -11,4 +11,4 @@ This repository contains files for my project PixelPhrase-Image Caption Generato
 4. Run app.py file in the vscode terminal using streamlit run command.
 5. Upload Image and generate caption.
 
-You can find the video of the wroking model here:- https://drive.google.com/drive/folders/12O0RjmdBXafeN_dcokIbnpS3VcP_pAuP
+
