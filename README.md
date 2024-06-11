@@ -8,5 +8,5 @@ This repository contains files for my project PixelPhrase-Image Caption Generato
    (2)working-for saving pickle files and trained model.
 
 3. Run the Jupyter notebook.
-4. Run app.py file in the vscode terminal using stramlit run command.
+4. Run app.py file in the vscode terminal using streamlit run command.
 5. Upload Image and generate caption.
